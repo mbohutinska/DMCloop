@@ -54,7 +54,8 @@ scp -r holcovam@nympha.metacentrum.cz:/storage/plzen1/home/holcovam/DMC/analysis
 dotplot.R
 #### make AF heatmap
 heatmapParallel.R
-#### check the coancestry for the ML model, needs its own genSelMatrices_individualModes.R function
-investigate_coancestry_maxLikelihood.R
+#### check the coancestry for the ML model
+
+investigate_coancestry_maxLikelihood.R (requires separate genSelMatrices_individualModes.R function)
 
 
